@@ -2,7 +2,7 @@ module github.com/tohjustin/kube-lineage
 
 go 1.24.0
 
-toolchain go1.24.2
+toolchain go1.24.13
 
 require (
 	github.com/spf13/cobra v1.10.1
